@@ -12,14 +12,9 @@
 
 
 <p align="justify">
-I am a Full-Stack programmer with a strong background in Front-End development. My focus revolves around innovation and design, where the ability to make decisions and resolve conflicts are key aspects of my performance. I am an organized individual with excellent time management skills, allowing me to efficiently and effectively carry out projects.
+I am a Full-Stack developer with a strong background in Front-End development. My focus revolves around innovation and design, where the ability to make decisions and resolve conflicts are key aspects of my performance. I am an organized individual with excellent time management skills, allowing me to efficiently and effectively carry out projects.
 
-My passion for coding and my constant desire to learn drive me in my career. My professional goal is to further strengthen my knowledge, especially in Back-End development, while continuing to explore new techniques and programming languages. I firmly believe that continuous learning is essential for professional growth and for staying up-to-date in such a dynamic field as software development.
-
-When I'm not immersed in the world of code, I find my creativity in personal projects in Blender. This fascinating 3D design software provides me with the opportunity to explore a different approach to visual creativity. I am passionate about shaping virtual worlds and bringing to life ideas that freely flow through my mind.
-
-This hobby in Blender also reflects my commitment to self-learning. I enjoy the process of researching and experimenting on my own, which enables me to constantly acquire new skills and knowledge. Similar to my dedication to the programming world, I consider the pursuit of knowledge to be an essential part of my professional growth.
-</p>
+My passion for coding and my constant desire to learn drive me in my career. My professional goal is to further strengthen my knowledge, especially in Back-End development, while continuing to explore new techniques and programming languages. I firmly believe that continuous learning is essential for professional growth and for staying up-to-date in such a dynamic field as software development.</p>
 
 
 
